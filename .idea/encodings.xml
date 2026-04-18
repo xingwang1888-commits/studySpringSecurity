@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringSecurity-01-first/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringSecurity-02-handler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringSecurity-03-mysql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringSecurity-04-Captcha/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringSecurity-05-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringSecurity-06-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringSecurity-07-all/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /first
+spring:
+  security:
+    user:
+      name: admin
+      password: hello123

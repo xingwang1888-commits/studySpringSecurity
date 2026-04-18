@@ -1,0 +1,3 @@
+整合redis：
+在successHandler中将jwt放入redis中，将jwt变成有状态的
+在jwtFilter中读取redis的jwt， 判断用户的jwt是否过期或登出
